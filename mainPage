@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>steins;gate</title>
+</head>
+<body style = "background-color:lightgrey">
+
+<div id = "some text">
+
+<h1 
+title = "listen plz" align="middle" 
+style = "font-size:300%; color:#aa77aa">
+Design suger ;
+</h1>
+
+<a 
+href = "http://gaben.tv" 
+style="margin:auto; text-align:center; display:block;"
+class="button large hpbottom">
+This is totaly sfw, trust me plz.
+</a>
+
+<p 
+title =  "Mina och andras åsikter om Design"
+align="middle"
+style = "color:darkgreen"
+>
+Ingen vill ha design .
+</p>
+
+<p
+align = "middle"
+style = "color:orange">
+<del>Fast designar jag inte en webbsida just nu?</del>
+</p>
+
+<p
+align = "middle"
+style = "color:red">
+<strong>NEJ!</strong>
+</p>
+
+
+</div>
+
+<hr>
+
+<div id = "some buttons">
+
+<form action="file:///Users/alexander/Desktop/minSida2.html" align="middle">
+    <input type="submit" value="Min imageVault">
+</form>
+
+<form action="http://aagamer.se" align = "middle">
+    <input type="submit" value="Fredriks domain">
+</form>
+
+</div>
+
+
+<div title = "some random imag(es)">
+
+<img 
+src = "http://soepic.net/stor/items/06fb3b9cbe039b419.gif" 
+style="margin:auto; display:block;">
+</img>
+
+
+
+</div>
+
+</body>
+</html>
